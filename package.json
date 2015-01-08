@@ -1,0 +1,16 @@
+{
+  "name": "fserv",
+  "version": "1.0.0",
+  "description": "Serve up files",
+  "main": "fserv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J R Lindsey",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "mime": "^1.2.11",
+    "uuid": "^2.0.1"
+  }
+}
